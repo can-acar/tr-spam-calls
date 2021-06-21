@@ -1,4 +1,9 @@
-# TR SPAM CALLS
+# TR SPAM ARAMALAR
+
+## NOT!
+
+Bu repo, daha öncesinde şikayet edilmiş, haber sitelerine konu olmuş veya diğer sosyal mecralarda dolandırıcı olarak ihbar edilmiş telefon numaralarının, mağdurlar tarafından eklenmesiyle oluşturulmuştur. Eğer burada `numara değişikliği` sebebiyle kendi numaranızı da görürseniz, lütfen bunu `oayyildiz416@gmail.com` mail adresine bildirin. Burada bulunan hiçbir numara için kesinlik sağlanmamaktadır. Tamamen gönüllülük esaslı oluşturulmuştur.
+
 
 ## Su Arıtma
 
