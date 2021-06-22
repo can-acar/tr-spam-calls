@@ -12,6 +12,7 @@ Bu repo, daha öncesinde şikayet edilmiş, haber sitelerine konu olmuş veya di
 
 ## Devlet Destekli İnternet
 
+- 0 (212) 445 43 32
 - 0 (212) 907 03 68
 - 0 (216) 237 05 19
 - 0 (216) 237 08 71
@@ -41,6 +42,7 @@ Bu repo, daha öncesinde şikayet edilmiş, haber sitelerine konu olmuş veya di
 - 0 (850) 484 13 84
 - 0 (850) 484 14 03
 - 0 (850) 484 14 14
+- 0 (850) 484 14 58
 - 0 (850) 484 15 10
 - 0 (850) 484 15 36
 - 0 (850) 484 15 37
