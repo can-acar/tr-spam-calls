@@ -76,6 +76,7 @@ Bu repo, daha öncesinde şikayet edilmiş, haber sitelerine konu olmuş veya di
 ## Digitürk / Türk Telekom Dolandırıcıları
 
 - 444 8 175
+- 0 (212) 824 01 76
 - 0 (850) 473 77 37
 - 0 (850) 771 06 10
 
