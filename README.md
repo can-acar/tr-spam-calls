@@ -72,6 +72,7 @@ Bu repo, daha öncesinde şikayet edilmiş, haber sitelerine konu olmuş veya di
 - 0 (850) 484 19 41
 - 0 (850) 484 19 47
 - 0 (850) 484 25 78
+- 0 (850) 484 08 91
 
 ## Digitürk / Türk Telekom Dolandırıcıları
 
