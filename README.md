@@ -2,7 +2,7 @@
 
 ## NOT!
 
-Bu repo, daha öncesinde şikayet edilmiş, haber sitelerine konu olmuş veya diğer sosyal mecralarda dolandırıcı olarak ihbar edilmiş telefon numaralarının, mağdurlar tarafından eklenmesiyle oluşturulmuştur. Eğer burada `numara değişikliği` sebebiyle kendi numaranızı da görürseniz, lütfen bunu `oayyildiz416@gmail.com` mail adresine bildirin. Burada bulunan hiçbir numara için kesinlik sağlanmamaktadır. Tamamen gönüllülük esaslı oluşturulmuştur.
+Bu repo mavisland/tr-spam-calls fork edilmiştir.  Aşağıdaki numaralar  hepsi DOLANDIRICI!!! 
 
 
 ## Su Arıtma
@@ -91,7 +91,23 @@ Bu repo, daha öncesinde şikayet edilmiş, haber sitelerine konu olmuş veya di
 - 0 (232) 240 47 77
 
 ## Daha Önce Şikayet Edilen Dolandırıcılar
-
+- 0 (212) 990 08 31
+- 0 (850) 520 27 94
+- 0 (850) 901 08 94
+- 0 (850) 473 72 81
+- 0 (212) 920 05 19
+- 0 (216) 203 06 37
+- 0 (212) 708 79 14
+- 0 (850) 532 24 41
+- 0 (216) 740 05 73
+- 0 (216) 250 16 43
+- 0 (216) 299 07 73
+- 0 (216) 234 30 22
+- 0 (212) 962 02 22
+- 0 (212) 356 11 59
+- 0 (212) 963 00 93
+- 0 (850) 473 73 53
+- 0 (850) 473 73 52
 - 0 (212) 212 21 22
 - 0 (212) 217 13 37
 - 0 (212) 217 13 38
