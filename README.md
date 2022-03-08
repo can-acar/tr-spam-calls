@@ -77,6 +77,7 @@ Bu repo mavisland/tr-spam-calls fork edilmiştir.  Aşağıdaki numaralar  hepsi
 - 0 (850) 484 23 68
 - 0 (850) 484 23 87
 - 0 (850) 484 25 78
+- 0 (850) 901 09 43
 
 
 ## Digitürk / Türk Telekom Dolandırıcıları
